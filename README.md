@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Support CRM Dashboard
 
 A simple Support CRM web application built using FastAPI and SQLite.
@@ -46,3 +47,6 @@ A simple Support CRM web application built using FastAPI and SQLite.
 - `app/database.py` – Database configuration
 - `templates/index.html` – Frontend UI
 - `support_crm.db` – SQLite database
+=======
+# support-crm
+>>>>>>> bbb8fdc5ed4bb70c498c37cfcdd23ae3282deb61
